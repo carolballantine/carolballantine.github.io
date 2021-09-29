@@ -1,6 +1,5 @@
 ## Academic writing 
-- Ballantine C. The Reaffirmation of Self? Narrative Inquiry for Researching Violence Against Women and Stigma Violence Against Women August 2021 
-https://t.co/LBqdsqc4Ge?amp=1 
+- Ballantine C. The Reaffirmation of Self? Narrative Inquiry for Researching Violence Against Women and Stigma Violence Against Women August 2021 https://journals.sagepub.com/eprint/ACN7FYXRICYZA8RYGGFY/full
 
 ## Essays
 - https://moxymagazine.org/memoir-big-funeral-energy/
@@ -18,7 +17,7 @@ https://t.co/LBqdsqc4Ge?amp=1
 - This Hostel Life by Melatu Uche Ochorie https://www.headstuff.org/culture/literature/book-review-this-hostel-life-melatu-uche-okorie/ 
 
 ## Group blogs 
-- The continuum of violence and the sexual politics of freedom https://t.co/PbcKzfbieZ?amp=1
+- The continuum of violence and the sexual politics of freedom https://thesexualpoliticsoffreedom.blogspot.com/2020/10/blog-post-continuum-of-violence-and.html
 - How Ireland’s asylum system commits violence against women https://www.rte.ie/brainstorm/2019/1020/1084575-how-irelands-asylum-system-commits-violence-against-women/ 
 - How stigma and shame are deployed for political ends https://www.rte.ie/eile/brainstorm/2018/0926/998210-how-stigma-and-shame-are-deployed-for-political-ends/ 
 - https://womenareboring.wordpress.com/2016/07/21/it-puts-you-in-a-place-like-a-bottle-stigma-shame-and-gender-based-violence/ 
