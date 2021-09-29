@@ -1,5 +1,3 @@
-### Carol Ballantine
-
 ## Academic writing
 - Ballantine C. The Reaffirmation of Self? Narrative Inquiry for Researching Violence Against Women and Stigma Violence Against Women August 2021 <https://journals.sagepub.com/eprint/ACN7FYXRICYZA8RYGGFY/full>
 
