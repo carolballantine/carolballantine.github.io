@@ -15,7 +15,7 @@
 - **Unsettled by Rosaleen McDonagh in the Irish Times** <https://www.irishtimes.com/culture/books/unsettled-by-rosaleen-mcdonagh-snapshots-of-a-life-lived-between-identities-1.4649461>
 - **Correspondences, Jessica Traynor and Stephen Rea eds** <https://www.irishtimes.com/culture/books/correspondences-laying-bare-the-injustice-of-direct-provision-1.4102023>
 - **Republic of Shame by Caelainn Hogan** <https://stingingfly.org/review/republic-of-shame/>
-- **This Hostel Life by Melatu Uche Ochorie** <https://www.headstuff.org/culture/literature/book-review-this-hostel-life-melatu-uche-okorie/ >
+- **This Hostel Life by Melatu Uche Ochorie** <https://www.headstuff.org/culture/literature/book-review-this-hostel-life-melatu-uche-okorie/>
 
 ## Group blogs 
 - **The continuum of violence and the sexual politics of freedom** <https://thesexualpoliticsoffreedom.blogspot.com/2020/10/blog-post-continuum-of-violence-and.html>
