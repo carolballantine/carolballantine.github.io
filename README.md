@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: "Carol Ballantine"
+permalink: /
+---
 
-You can use the [editor on GitHub](https://github.com/carolballantine/carolballantine.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Academic writing 
 
-### Markdown
+Ballantine C. The Reaffirmation of Self? Narrative Inquiry for Researching Violence Against Women and Stigma Violence Against Women August 2021 
+https://t.co/LBqdsqc4Ge?amp=1 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Essays
 
-```markdown
-Syntax highlighted code block
+https://moxymagazine.org/memoir-big-funeral-energy/
+https://stingingfly.org/2019/07/15/power-cut/
+Once Removed, Banshee #6 Summer 2018
+https://www.headstuff.org/topical/change-comes-in-may-8th-amendment/
+https://www.headstuff.org/literature/irish-essayist-girls-blush-sometimes/
+https://www.headstuff.org/topical/misogyny-catholic-church/
 
-# Header 1
-## Header 2
-### Header 3
+Book reviews 
 
-- Bulleted
-- List
+Stigma: The Machinery of Inequality by Imogen Tyler in Irish Journal of Sociology https://journals.sagepub.com/doi/10.1177/0791603520972554
 
-1. Numbered
-2. List
+Unsettled by Rosaleen McDonagh in the Irish Times 
 
-**Bold** and _Italic_ and `Code` text
+Correspondences, Jessica Traynor and Stephen Rea eds  https://www.irishtimes.com/culture/books/correspondences-laying-bare-the-injustice-of-direct-provision-1.4102023
 
-[Link](url) and ![Image](src)
-```
+Republic of Shame by Caelainn Hogan https://stingingfly.org/review/republic-of-shame/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This Hostel Life by Melatu Uche Ochorie https://www.headstuff.org/culture/literature/book-review-this-hostel-life-melatu-uche-okorie/ 
 
-### Jekyll Themes
+Group blogs 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carolballantine/carolballantine.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The continuum of violence and the sexual politics of freedom https://t.co/PbcKzfbieZ?amp=1
 
-### Support or Contact
+How Ireland’s asylum system commits violence against women https://www.rte.ie/brainstorm/2019/1020/1084575-how-irelands-asylum-system-commits-violence-against-women/ 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+How stigma and shame are deployed for political ends https://www.rte.ie/eile/brainstorm/2018/0926/998210-how-stigma-and-shame-are-deployed-for-political-ends/ 
+
+https://womenareboring.wordpress.com/2016/07/21/it-puts-you-in-a-place-like-a-bottle-stigma-shame-and-gender-based-violence/ 
